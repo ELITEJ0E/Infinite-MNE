@@ -83,7 +83,6 @@ const resources = {
       ai: {
         welcome: 'Hello! I am the Infinite M&E AI Assistant. How can I help you today? You can ask me about our services, or ask for directions to our office in Johor Bahru.',
         title: 'Infinite AI',
-        poweredBy: 'Powered by Gemini',
         sources: 'Sources:',
         placeholder: 'Ask about our services...',
         error: 'Sorry, I encountered an error. Please try again later.',
